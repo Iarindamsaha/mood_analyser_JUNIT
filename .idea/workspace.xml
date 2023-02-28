@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0b271d66-c502-4bbc-a4e2-7273abb0ed4b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/moodanalyser/MoodAnalyser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/moodanalyser/MoodAnalyser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/moodanalyser/MoodAnalyserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/moodanalyser/MoodAnalyserTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +49,7 @@
       <recent name="com.moodanalyser" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gradle.MoodAnalyserTest.given_Null_Mood_Return_Happy">
     <configuration name="MoodAnalyseService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.moodanalyser.MoodAnalyseService" />
       <module name="MoodAnalyzerTest.main" />
@@ -133,8 +132,32 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="MoodAnalyserTest.given_Null_Mood_Return_Happy" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.moodanalyser.MoodAnalyserTest.given_Null_Mood_Return_Happy&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.MoodAnalyserTest.given_Null_Mood_Return_Happy" />
         <item itemvalue="Gradle.MoodAnalyserTest.givenMessage_WhenSad_ShouldReturn_Sad" />
         <item itemvalue="Application.MoodAnalyseService" />
         <item itemvalue="Gradle.MoodAnalyserTest.givenMessage_WhenNotSad_ReturnHappy" />
