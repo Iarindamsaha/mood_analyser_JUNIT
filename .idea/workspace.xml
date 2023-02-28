@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b271d66-c502-4bbc-a4e2-7273abb0ed4b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/moodanalyser/MoodAnalyser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/moodanalyser/MoodAnalyser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/moodanalyser/MoodAnalyserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/moodanalyser/MoodAnalyserTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +50,20 @@
       <recent name="com.moodanalyser" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.MoodAnalyserTest.givenMessage_WhenNotSad_ReturnHappy">
+  <component name="RunManager">
+    <configuration name="MoodAnalyseService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.moodanalyser.MoodAnalyseService" />
+      <module name="MoodAnalyzerTest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.moodanalyser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MoodAnalyserTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -121,8 +135,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.MoodAnalyserTest.givenMessage_WhenNotSad_ReturnHappy" />
         <item itemvalue="Gradle.MoodAnalyserTest.givenMessage_WhenSad_ShouldReturn_Sad" />
+        <item itemvalue="Application.MoodAnalyseService" />
+        <item itemvalue="Gradle.MoodAnalyserTest.givenMessage_WhenNotSad_ReturnHappy" />
         <item itemvalue="Gradle.MoodAnalyserTest" />
       </list>
     </recent_temporary>
